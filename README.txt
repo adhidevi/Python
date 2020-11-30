@@ -10,11 +10,11 @@ Every veriable is overwritable. i.e. the new defination overwrites the previous 
 Setup:
   __________			___________________		_________________
   |The REPL|			|IDE / Code Editor|		|Jupiter Notebook|
-Command Prompt				   PyCharm			http://jupyter.org/
-   Terminal					   VS Code				Interactive
-    pyton3					Version Control		 See input & output
-No installation needed		   Debugging		   Display visuals
-"Code playgrount"			Web Development
+Command Prompt			 1) PyCharm			http://jupyter.org/
+   Terminal			 2) VS Code			Interactive
+    pyton3			 Version Control		See input & output
+No installation needed		 Debugging		  	Display visuals
+"Code playground"		 Web Development
 
 			   ________________________
 			   |Python & Data Analysis|
